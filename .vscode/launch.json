@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sahit/OneDrive/Desktop/C++/patternProblems",
-      "program": "c:/Users/sahit/OneDrive/Desktop/C++/patternProblems/build/Debug/outDebug",
+      "cwd": "c:/Users/sahit/OneDrive/Desktop/C++",
+      "program": "c:/Users/sahit/OneDrive/Desktop/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
