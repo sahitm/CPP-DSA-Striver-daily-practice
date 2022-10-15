@@ -1,4 +1,4 @@
-// Given a number N reverse the number and print it.
+// Given a number N reverse the number and print it. [leetcode]
 #include<bits/stdc++.h>
 using namespace std;
 
