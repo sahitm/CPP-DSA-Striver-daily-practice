@@ -5,6 +5,7 @@ using namespace std;
 
 void pattern(int n){
 
+        
           
 }
 
