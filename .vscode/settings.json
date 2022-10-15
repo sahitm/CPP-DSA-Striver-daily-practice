@@ -1,7 +1,16 @@
 {
   "files.associations": {
     "ostream": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "array": "cpp",
+    "chrono": "cpp",
+    "functional": "cpp",
+    "ratio": "cpp",
+    "scoped_allocator": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "cmath": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
