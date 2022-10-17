@@ -10,7 +10,9 @@
     "tuple": "cpp",
     "type_traits": "cpp",
     "utility": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "bitset": "cpp",
+    "algorithm": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
